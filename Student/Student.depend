@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589556915 source:e:\ivailo\kursovi raboti\aygul ahmed\student\main.cpp
+	<iostream>
+	<string>
+	"Student.h"
+
+1589557993 source:e:\ivailo\kursovi raboti\aygul ahmed\student\src\student.cpp
+	<string>
+	<iostream>
+	"Student.h"
+
+1589554113 e:\ivailo\kursovi raboti\aygul ahmed\student\include\student.h
+
